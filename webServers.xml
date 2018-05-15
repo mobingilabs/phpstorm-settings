@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c5472463-2145-43e8-bee5-e5c2f4306187" name="Digital Ocean - english-course" url="http://192.241.151.104">
+        <fileTransfer host="192.241.151.104" port="22" rootFolder="/var/www/html/language/public/voter" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
