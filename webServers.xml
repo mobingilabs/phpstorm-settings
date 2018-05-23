@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="40f540d5-bf53-42d9-9681-156b3c865e45" name="Digital Ocean - Diego" url="http://162.243.38.60">
+        <fileTransfer host="162.243.38.60" port="22" rootFolder="/home/eAthena_eAmod_Virtual" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
